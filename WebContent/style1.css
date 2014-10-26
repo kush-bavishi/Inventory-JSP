@@ -1,0 +1,168 @@
+@CHARSET "ISO-8859-1";
+
+li.navbar {
+display: inline;
+margin-right: 80px;
+ }
+
+
+body {
+	margin: 0px;
+	background-color: #465387; }
+
+.navbar-main {
+font-size:24px;
+width: 600px;
+padding: 1px;
+margin: 5px auto 5px auto;
+border-top: 2px solid #000;
+border-bottom: 1px solid #000;
+text-align: center; }
+
+#Lform {
+background: #555555;
+padding: 30px;
+text-align: center;
+width: 400px;
+margin: 120px auto;
+border-radius: 15px;
+box-shadow: 0px 0px 5px #000;
+font-family: sans-serif;
+}
+
+#loginbtn{
+position: relative;
+top: 5px;
+left: 60px;
+width: 100px;
+box-shadow: 0px 0px 5px #000000;
+background: #93cede; /* Old browsers */
+background: -moz-linear-gradient(top,  #93cede 0%, #75bdd1 41%, #49a5bf 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#93cede), color-stop(41%,#75bdd1), color-stop(100%,#49a5bf)); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top,  #93cede 0%,#75bdd1 41%,#49a5bf 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top,  #93cede 0%,#75bdd1 41%,#49a5bf 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top,  #93cede 0%,#75bdd1 41%,#49a5bf 100%); /* IE10+ */
+background: linear-gradient(to bottom,  #93cede 0%,#75bdd1 41%,#49a5bf 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#93cede', endColorstr='#49a5bf',GradientType=0 ); /* IE6-9 */
+
+}
+
+#lgbutton {
+	background: #555555;
+padding: 20px;
+box-shadow: 0px 0px 7px #000;
+font-family: serif;
+font-style: italic;
+font-weight: bold;
+font-size: 20px;
+color: #ffffff}
+
+#lgbutton a, a:visited {
+font-size: 20px;
+color: white;
+text-decoration: none;
+font-family: sans-serif;
+}
+
+#welcome {
+font-size: xx-large;
+font-style: italic;
+color: #A80008;
+font-family: sans-serif;
+padding-right: 10px;
+text-align: center;}
+
+.ca-menu {
+padding: 0;
+margin: 40px auto;
+width: 250px;
+}
+
+ul
+{
+    list-style-type: none;
+}
+
+
+#Sform {
+background: #555555;
+padding: 25px 20px 25px 20px;
+text-align: center;
+width: 300px;
+margin: 20px auto;
+border-radius: 15px;
+box-shadow: 0px 0px 5px #000;
+font-family: sans-serif;
+}
+
+
+table {
+	background-color: #576498;
+	margin: 30px auto;
+}
+
+.namecol {
+	width: 150px;
+}
+.manucol {
+	width: 150px;
+}
+
+.quancol {
+	width: 100px;
+}
+
+.money {
+	width: 100px;
+}
+
+th {
+	text-align: left;
+}
+
+
+#details {
+	width: 300px;
+	font-family: sans-serif;
+}
+
+#image {
+	width: 300px;
+   	height: 200px;
+   	margin: 30px auto;
+}
+
+#adminlist {
+	font-size: 24px;
+	font-family: serif;
+}
+
+.ca-main, .ca-content {
+	font-weight: bold;
+	margin: 10px auto;
+}
+
+
+input {
+	width: 200px;
+padding: 10px;
+border-radius: 7px;
+border: none;
+}
+
+a, a:visited {
+	text-decoration: none;
+	font-family: sans-serif;
+	color: #ddd;
+	
+	}
+a:HOVER {
+	text-decoration: none;
+	color: #fff;
+}
+
+
+#btn {
+	margin-top: 10px;
+width: 100px;
+}
